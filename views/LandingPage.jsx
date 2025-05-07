@@ -8,6 +8,7 @@ function LandingPage() {
       <div className="">
         <Navbar />
         <Menu />
+        {/* comment */}
       </div>
     </div>
   );
